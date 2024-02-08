@@ -1,0 +1,24 @@
+.welcome{
+    margin-left: 38%;
+    color: #A5DEE5;
+}
+.Programmer{
+    margin-left: 45%;
+}
+.bug{
+    margin-left: 45%;
+}
+.Founder{
+    margin-left: 50%;
+}
+.pd{
+    margin-left: 40%;
+}
+.field{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+body{
+    background-image: url("img/cb.avif");
+    color: whitesmoke;
+}
